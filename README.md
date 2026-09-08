@@ -4,6 +4,8 @@
 
 It uses region-targeted screen capture and Optical Character Recognition (OCR) to convert visual data readouts into structured, time-stamped `.xlsx` records mapped against experimental independent variables.
 
+<img width="567" height="329" alt="Screenshot 2026-09-08 at 09 44 29" src="https://github.com/user-attachments/assets/5ddba600-0832-4cab-abc4-f0ab678ebf94" />
+
 ---
 
 ## Key Features
